@@ -6,5 +6,5 @@ In this game you have to remember what you have seen under the grids and this is
 cd rememberme</tt>
 
 ## Usage
-Just start the index.html page
+Just start the html page
 
